@@ -1,5 +1,7 @@
 ### `README.md`
 
+![terraform_alb_public drawio](https://github.com/user-attachments/assets/fa9c39df-5999-480f-a044-3e302a3cd34d)
+
 ```markdown
 # Terraform AWS Project: ALB with EC2 Instances
 
@@ -18,10 +20,6 @@ This Terraform project sets up a complete AWS infrastructure with the following 
 
 ---
 ```
-
-![terraform_alb_public drawio](https://github.com/user-attachments/assets/fa9c39df-5999-480f-a044-3e302a3cd34d)
-
-
 ```
 ## Architecture Overview
 
