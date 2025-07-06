@@ -20,7 +20,7 @@ This Terraform project sets up a complete AWS infrastructure with the following 
 
 ## Architecture Overview
 
-```
+
 
 \[ VPC ]
 ├── Public Subnets (ALB, NAT Gateway, EC2)
@@ -28,7 +28,7 @@ This Terraform project sets up a complete AWS infrastructure with the following 
 ├── Internet Gateway
 ├── NAT Gateway
 └── Route Tables
-
+```
 ```
 
 ---
@@ -44,7 +44,6 @@ This Terraform project sets up a complete AWS infrastructure with the following 
 
 ## Project Structure
 
-```
 
 .
 ├── alb.tf
@@ -67,6 +66,7 @@ This Terraform project sets up a complete AWS infrastructure with the following 
 ├── .gitignore
 └── README.md
 
+```
 ````
 
 ---
